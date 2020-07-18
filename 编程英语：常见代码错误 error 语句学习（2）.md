@@ -1,6 +1,16 @@
 # 编程英语：常见代码错误 error 语句学习（2）
 
-
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <meta  charset=utf-8"/>
+     <style>
+         mark {
+             background-color:#00ff90; font-weight:bold;
+         }
+    </style>
+<title>使用Mark元素高亮显示文本</title>
+</head>
 <m>aaa</m>
 
 * ==error 1: Unexpected end of file   文件非正常结束==  
